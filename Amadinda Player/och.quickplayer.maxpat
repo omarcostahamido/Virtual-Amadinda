@@ -38,6 +38,21 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-35",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 107.0, 260.0, 150.0, 34.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 35.0, 275.0, 235.0, 20.0 ],
+					"style" : "",
+					"text" : "https://en.wikipedia.org/wiki/General_MIDI"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-32",
 					"maxclass" : "number",
 					"numinlets" : 1,
@@ -63,7 +78,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 204.0, 131.0, 247.0, 22.0 ],
 					"style" : "",
-					"text" : "0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1"
+					"text" : "0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0"
 				}
 
 			}
@@ -342,7 +357,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 204.0, 104.0, 247.0, 22.0 ],
 					"style" : "",
-					"text" : "0 2 1 0 1 0 0 1 0 0 0 0 0 2 0 0 0 0 2 0 1 0 0 1"
+					"text" : "0 0 0 2 0 1 1 0 1 0 0 1 0 0 2 1 0 2 0 2 0 0 2 0"
 				}
 
 			}
@@ -682,7 +697,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 204.0, 76.0, 247.0, 22.0 ],
 					"style" : "",
-					"text" : "5 2 1 4 1 3 3 1 3 5 5 3 5 2 4 3 5 4 2 4 1 5 4 1"
+					"text" : "3 5 4 2 4 1 1 4 1 3 3 1 3 5 2 1 3 2 5 2 4 3 2 4"
 				}
 
 			}
